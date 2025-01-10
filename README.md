@@ -1,1 +1,2 @@
 # face-detection
+Author - Verunica
